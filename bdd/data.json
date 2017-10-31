@@ -1,0 +1,8 @@
+{
+  "todoes": [
+    { "id": 1, "title": "Configurer un serveur NodeJS", "isDone": true },
+    { "id": 2, "title": "Ajouter les routes Front et API", "isDone": false },
+    { "id": 3, "title": "Configurer une base de donné JsonServer", "isDone": false },
+    { "id": 4, "title": "Lever les main en l'air", "isDone": false }
+  ]
+}
